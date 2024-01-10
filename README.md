@@ -1,2 +1,4 @@
 # Spider-Invation
-My first python game made with PyGame
+Mein erstes Python Spiel mithilfe von PyGame.
+
+Um das Spiel starten zu können, benötigen Sie PyGame. 
