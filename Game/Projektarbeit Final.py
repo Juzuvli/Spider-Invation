@@ -446,7 +446,7 @@ class Flame(pygame.sprite.Sprite):
 
     #Draw Flame
     def draw(self):
-        screen.blit(self.flame_scaled, (self.rect.x, self.rect.y))
+        screen.blit(self.img_scaled, (self.rect.x, self.rect.y))
 
 #Spider
 class Enemy(pygame.sprite.Sprite):
